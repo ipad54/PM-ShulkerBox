@@ -4,6 +4,6 @@ branches:
 - master
 projects:
   PM-ShulkerBox:
-    icon: icon.JPG
+    icon: icon.PNG
     path: ""
 ...
